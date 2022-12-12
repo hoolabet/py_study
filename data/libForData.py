@@ -32,3 +32,4 @@ plt.ylabel("Y")
 plt.legend(loc="upper left")
 plt.title("Scatter plot")
 plt.show()
+
